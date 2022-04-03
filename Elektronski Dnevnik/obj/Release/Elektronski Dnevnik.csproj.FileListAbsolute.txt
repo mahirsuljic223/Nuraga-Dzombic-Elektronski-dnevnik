@@ -1,0 +1,14 @@
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Release\Elektronski Dnevnik.csprojAssemblyReference.cache
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Release\Elektronski_Dnevnik.Menu.resources
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Release\Elektronski_Dnevnik.PregledPredmeta.resources
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Release\Elektronski_Dnevnik.PregledSvihUcenika.resources
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Release\Elektronski_Dnevnik.PregledUcenika.resources
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Release\Elektronski_Dnevnik.Properties.Resources.resources
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Release\Elektronski_Dnevnik.Testing.resources
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Release\Elektronski_Dnevnik.UnosOcjene.resources
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Release\Elektronski_Dnevnik.UnosPredmeta.resources
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Release\Elektronski_Dnevnik.UnosUcenika.resources
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Release\Elektronski Dnevnik.csproj.GenerateResource.cache
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Release\Elektronski Dnevnik.csproj.CoreCompileInputs.cache
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Release\Elektronski Dnevnik.exe
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Release\Elektronski Dnevnik.pdb

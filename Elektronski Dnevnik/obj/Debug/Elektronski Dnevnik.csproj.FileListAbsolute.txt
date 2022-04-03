@@ -1,0 +1,44 @@
+C:\Users\Mahir\source\repos\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski Dnevnik.csprojAssemblyReference.cache
+C:\Users\Mahir\source\repos\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski_Dnevnik.Menu.resources
+C:\Users\Mahir\source\repos\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski_Dnevnik.PregledPredmeta.resources
+C:\Users\Mahir\source\repos\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski_Dnevnik.PregledSvihUcenika.resources
+C:\Users\Mahir\source\repos\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski_Dnevnik.PregledUcenika.resources
+C:\Users\Mahir\source\repos\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski_Dnevnik.Properties.Resources.resources
+C:\Users\Mahir\source\repos\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski_Dnevnik.Testing.resources
+C:\Users\Mahir\source\repos\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski_Dnevnik.UnosOcjene.resources
+C:\Users\Mahir\source\repos\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski_Dnevnik.UnosPredmeta.resources
+C:\Users\Mahir\source\repos\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski_Dnevnik.UnosUcenika.resources
+C:\Users\Mahir\source\repos\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski Dnevnik.csproj.GenerateResource.cache
+C:\Users\Mahir\source\repos\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski Dnevnik.csproj.CoreCompileInputs.cache
+C:\Users\Mahir\source\repos\Elektronski Dnevnik\Elektronski Dnevnik\bin\Debug\ElektronskiDnevnik.accdb
+C:\Users\Mahir\source\repos\Elektronski Dnevnik\Elektronski Dnevnik\bin\Debug\Elektronski Dnevnik.exe.config
+C:\Users\Mahir\source\repos\Elektronski Dnevnik\Elektronski Dnevnik\bin\Debug\Elektronski Dnevnik.exe
+C:\Users\Mahir\source\repos\Elektronski Dnevnik\Elektronski Dnevnik\bin\Debug\Elektronski Dnevnik.pdb
+C:\Users\Mahir\source\repos\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski Dnevnik.exe
+C:\Users\Mahir\source\repos\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski Dnevnik.pdb
+C:\Users\Mahir\source\repos\Elektronski Dnevnik\Elektronski Dnevnik\bin\Debug\Elektronski Dnevnik.exe.manifest
+C:\Users\Mahir\source\repos\Elektronski Dnevnik\Elektronski Dnevnik\bin\Debug\Elektronski Dnevnik.application
+C:\Users\Mahir\source\repos\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski Dnevnik.exe.manifest
+C:\Users\Mahir\source\repos\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski Dnevnik.application
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski Dnevnik.csprojAssemblyReference.cache
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski_Dnevnik.Menu.resources
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski_Dnevnik.PregledPredmeta.resources
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski_Dnevnik.PregledSvihUcenika.resources
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski_Dnevnik.PregledUcenika.resources
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski_Dnevnik.Properties.Resources.resources
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski_Dnevnik.Testing.resources
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski_Dnevnik.UnosOcjene.resources
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski_Dnevnik.UnosPredmeta.resources
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski_Dnevnik.UnosUcenika.resources
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski Dnevnik.csproj.GenerateResource.cache
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski Dnevnik.csproj.CoreCompileInputs.cache
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski Dnevnik.exe
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski Dnevnik.pdb
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\bin\Debug\ElektronskiDnevnik.accdb
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\bin\Debug\Elektronski Dnevnik.exe.config
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\bin\Debug\Elektronski Dnevnik.exe.manifest
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\bin\Debug\Elektronski Dnevnik.application
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\bin\Debug\Elektronski Dnevnik.exe
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\bin\Debug\Elektronski Dnevnik.pdb
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski Dnevnik.exe.manifest
+C:\Users\Mahir\Desktop\Maturski\Elektronski Dnevnik\Elektronski Dnevnik\obj\Debug\Elektronski Dnevnik.application

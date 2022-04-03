@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="Elektronski_Dnevnik.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <connectionStrings>
+        <add name="Elektronski_Dnevnik.Properties.Settings.DatabaseString"
+            connectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=&quot;ElektronskiDnevnik.accdb&quot;" />
+    </connectionStrings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.8" />
+    </startup>
+    <userSettings>
+        <Elektronski_Dnevnik.Properties.Settings>
+            <setting name="backgroundColor" serializeAs="String">
+                <value>Orange</value>
+            </setting>
+        </Elektronski_Dnevnik.Properties.Settings>
+    </userSettings>
+</configuration>
